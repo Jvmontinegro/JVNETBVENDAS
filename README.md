@@ -1,2 +1,1 @@
-# JVNETBVENDAS
-# JVNETBVENDAS
+# jvendasbot
